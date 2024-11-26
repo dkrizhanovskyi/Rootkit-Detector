@@ -9,7 +9,7 @@ Thank you for considering contributing to the `Rootkit-Detector` project! We wel
 ### 1. **Report Issues**
 If you encounter any bugs, inconsistencies, or unexpected behavior, let us know by opening an issue:
 
-1. Go to the [Issues](https://github.com/your-repo/Rootkit-Detector/issues) tab.
+1. Go to the [Issues](https://github.com/dkrizhanovskyi/Rootkit-Detector/issues) tab.
 2. Click **New Issue** and provide the following:
    - A clear and concise title.
    - A detailed description of the issue, including steps to reproduce it.
@@ -19,7 +19,7 @@ If you encounter any bugs, inconsistencies, or unexpected behavior, let us know 
 ### 2. **Suggest Features**
 Have an idea to improve the project? Open a feature request:
 
-1. Go to the [Issues](https://github.com/your-repo/Rootkit-Detector/issues) tab.
+1. Go to the [Issues](https://github.com/dkrizhanovskyi/Rootkit-Detector/issues) tab.
 2. Select **Feature Request** and provide:
    - A detailed explanation of the feature.
    - Why it would be useful.
@@ -32,7 +32,7 @@ Contributions in the form of code are always welcome! Follow these steps:
    - Click the **Fork** button on the top right of the repository page.
    - Clone your fork locally:
      ```bash
-     git clone https://github.com/your-username/Rootkit-Detector.git
+     git clone https://github.com/dkrizhanovskyi/Rootkit-Detector.git
      cd Rootkit-Detector
      ```
 
